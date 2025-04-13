@@ -10,7 +10,6 @@
 
     ul{
         display: block;
-        width: 114.33px;
         border: none;
     }
 
@@ -20,7 +19,7 @@
         border-color: transparent !important;
         border-radius: 0px;
     }
-    
+
     a:hover{
         background-color: $LightNavy !important;
         color: $Green !important;
@@ -70,7 +69,7 @@
 
 .jobs{
 
-    max-width: 700px;
+    max-width: 800px;
     margin: auto;
 
     .title-tab-content{
@@ -95,7 +94,7 @@
         color: $LightSlate;
         margin-bottom: 30px;
     }
-    
+
     .job-description{
         position: relative;
         padding-left: 30px;

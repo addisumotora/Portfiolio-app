@@ -12,8 +12,8 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit{
-  title = 'andresjosehr-portfolio';
-  
+  title = 'addis-portfolio';
+
   constructor(
     private titleService: Title,
     private metaService: Meta,
@@ -23,7 +23,7 @@ export class AppComponent implements OnInit{
     ){
     }
   ngOnInit(): void{
-    
+
     this.languageService.initLanguage()
 
 
@@ -33,9 +33,9 @@ export class AppComponent implements OnInit{
       {name: 'keywords', content: 'Frontend, software, developer'},
       {name: 'description', content: 'Con 4 años de experiencia desarrollando sistemas, interfaces, bots y soluciones tecnológicas  para hacer de la web un lugar mejor. En mi trabajo me gusta liderar, proponer y ejecutar ideas, escribir y refactorizar código limpio, reutilizable y escalable.'},
     ]);
-    
-    
-    AOS.init(); 
+
+
+    AOS.init();
 
   }
 }

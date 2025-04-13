@@ -18,29 +18,44 @@
   "Experience.Title": "Experience",
   "Experience.Jobs": [
     {
-      "Tab": "Global",
-      "Title": "Fullstack Developer",
-      "Date": "May 2023",
+      "Tab": "Addis Ababa University",
+      "Title": "Full Stack Developer",
+      "Date": "May 2022 - August 2024",
       "Description": [
-        "Leader in technical decision making",
-        "Hiring technical talent for the company",
-        "Team leader of the technology department",
-        "Creation and maintenance of an internal process management platform for course sales",
-        "Programming custom functions and plugins for customizing a WordPress platform",
-        "Implementation of continuous integration and daily backups.",
-        "Planning and reporting meetings."
+        "Enterprise Data Warehouse Testing - prepared Test cases, validated MYSQL-based Data Warehouse through several stages, and prepared reports.",
+        "Performed function, stress, and load API testing.",
+        "Took charge of testing an Internal system module by holding meetings with developers and then signed off the module ready for production."
       ]
     },
     {
-      "Tab": "Proyex",
-      "Title": "Fullstack Developer",
-      "Date": "December 2019 - May 2023",
+      "Tab": "Awan Awalia",
+      "Title": "Full Stack Developer",
+      "Date": "July 2024 - Present",
       "Description": [
-        "Creation and maintenance of a monitoring platform with charts in WordPress.",
-        "Functional programming in templates and plugins to add necessary monitoring features.",
-        "Implementation of continuous integration and daily backups.",
-        "Creation and maintenance of a second Monitoring Platform made with Angular, Angular Material, Laravel, MySQL, RxJS, Sass with configurable charts, alarm systems, and user management and general configuration settings.",
-        "Planning and reporting meetings."
+        "Worked as a Full stack developer on the car wash Service Project including API development, UI development, testing, database management, and deployment.",
+        "Contributed to mobile and telegram bot development."
+      ]
+    },
+    {
+      "Tab": "Dc9 Websolutions",
+      "Title": "Full Stack Developer",
+      "Date": "August 2022 - March 2025",
+      "Description": [
+        "Worked as a Full stack developer on the Auction application Project including API development, UI development, testing, database management, and deployment.",
+        "Used Angular and Aws Lambda as tech stack and Jest for testing."
+      ]
+    },
+    {
+      "Tab": "TabCode",
+      "Title": "Senior Mean Stack Developer",
+      "Date": "06/2024 - 11/2024",
+      "Location": "Riyadh, Saudi Arabia",
+      "Description": [
+        "Worked on a SaaS website with three main applications: Customer, Restaurant, and Admin.",
+        "Led a code refactoring initiative, improving code maintainability and reducing technical debt by 40%.",
+        "Implemented new features in an accounting software used by customer clients, enhancing financial reporting accuracy.",
+        "Assisted in developing web services enabling seamless integration with third-party services, enhancing system interoperability.",
+        "Established automated testing frameworks which reduced bug rates by 60% in delivered software products."
       ]
     },
     {
@@ -49,118 +64,110 @@
       "Date": "May 2016 - Present",
       "Description": [
         "Continuous improvements implementation, working on frontend and backend.",
-        "Creation of platforms with Angular, Laravel, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
+        "Creation of platforms with Angular, React, Next.js, FastAPi, Nest, Node and programmed with functional, reactive, and object-oriented programming paradigms.",
         "Process automation with data structures.",
         "Template designs with SASS, Bootstrap, Materialize, Bulma, etc."
       ]
     },
     {
-      "Tab": "Moebius",
-      "Title": "Fullstack Developer",
-      "Date": "July 2017 - October 2018",
+      "Tab": "Hope For Children",
+      "Title": "Mern Stack Developer",
+      "Date": "02/2023 - 07/2023",
+      "Location": "Addis Ababa, Ethiopia",
       "Description": [
-        "Leading a team of 4 people in the development of a tourism data management platform made in Angular, Laravel, and MySQL.",
-        "Implementation of CI/CD in Azure. Refactoring and optimizing application load times.",
-        "Coding API requests with RxJS.",
-        "Creating modules with complex reactive forms.",
-        "Writing weekly reports about goals and plans."
+        "Collaborated with UX/UI design teams to enhance the overall website experience.",
+        "Developed a user interface for external users and an administrative interface for internal use using Next.js, Tailwind CSS, and Material-UI.",
+        "Increased income of the charity organization by integrating an easy-to-use donation payment system called Chappa."
       ]
     },
     {
-      "Tab": "TechLatam",
-      "Title": "Frontend Developer",
-      "Date": "February 2016 - May 2017",
+      "Tab": "HAPTech Solutions",
+      "Title": "Full Stack Developer",
+      "Date": "06/2021 - 07/2022",
+      "Location": "Arlington, VA",
       "Description": [
-        "Creating WordPress templates with ACF, functional programming in JavaScript/jQuery, styles in SASS.",
-        "Integrating design and load time improvements for templates.",
-        "Effective communication with the design team, working with Avocode/Figma."
-      ]
-    },
-    {
-      "Tab": "CANTV",
-      "Title": "Systems Analyst",
-      "Date": "November 2015 - December 2016",
-      "Description": [
-        "Programming new functionalities for an existing employee management platform made with Angular and ExpressJS.",
-        "Refactoring old code. Ensuring compatibility of each dependency with each update, including regular Angular updates."
-      ]
-    },
-    {
-      "Tab": "IEP",
-      "Title": "English Teacher",
-      "Date": "January 2015 - July 2015",
-      "Description": [
-        "Teaching basic English to a student body of over 200 students."
+        "Developed an Angular and .NET-based frontend and backend for an Integrated Management Information System platform, enhancing user experience and increasing conversions by 15%.",
+        "Optimized database queries on SQL Server, reducing data retrieval times by 40% and supporting business analytics.",
+        "Collaborated with cross-functional teams to design a responsive web layout, increasing mobile user engagement by 20%.",
+        "Conducted thorough code reviews and introduced unit testing practices, contributing to a 99.9% uptime for critical applications.",
+        "Ensured web application security by integrating industry-standard encryption, thwarting potential data breaches."
       ]
     }
   ],
 
   "FeatureProjects.Title": "My Projects",
-  "FeatureProjects.Label": "Highlighted Project",
+  "FeatureProjects.Label": "",
   "FeatureProjects.Projects": [
     {
-      "Title": "Gisselle",
-      "Description": "Web application for internal company management that covers sales, collection, and tracking departments, very extensive and complex with various functions made in <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>. It works with <span class='underline'>websockets</span>, <span class='underline'>schedules</span>, <span class='underline'>laravel jobs</span>, integrations with WordPress, Zadarma, LiveConnect, etc.",
+      "Title": "Inboxwave.com",
+      "Description": "A smart, scalable platform that automates and simplifies customer messaging—starting with Instagram DMs. Our mission is to help creators, influencers, and brands engage their audiences faster and more efficiently using AI-powered conversations.",
       "imgs": [
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
+        "assets/images/inboxwave/inbx1.png",
+        "assets/images/inboxwave/inbx2.png",
+        "assets/images/inboxwave/inbx3.png",
+        "assets/images/inboxwave/inbx4.png",
+        "assets/images/inboxwave/inbx5.png",
+        "assets/images/inboxwave/inbx6.png",
+        "assets/images/inboxwave/inbx7.png",
+        "assets/images/inboxwave/inbx8.png"
       ],
-      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      "Technologies": ["Springboot", "Angular", "SASS", "Tailwind", "Angular Material", "RxJS"]
     },
     {
-      "Title": "Emelteciot",
-      "Description": "Monitoring application for data query, made with <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>. The <span class='underline'>chart.js</span> library is applied.",
+      "Title": "LLM Sermon Platform",
+      "Description": "An innovative platform designed to support ministers and pastors by leveraging AI tools to enhance sermon preparation.",
       "imgs": [
-        "assets/images/proyex2/Captura de pantalla 2024-07-28 102852.png",
-        "assets/images/proyex2/849c117f-bed9-4406-9c13-c8669f655acc.png",
-        "assets/images/proyex2/62cdf90c-6196-4a6e-b639-8919cda4f749.png",
-        "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923.png",
-        "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923 (1).png"
+        "assets/images/llm-sermon/llm-1.png",
+        "assets/images/llm-sermon/llm-2.png",
+        "assets/images/llm-sermon/llm-3.png",
+        "assets/images/llm-sermon/llm-4.png",
+        "assets/images/llm-sermon/llm-5.png",
+        "assets/images/llm-sermon/llm-6.png",
+        "assets/images/llm-sermon/llm-7.png",
+        "assets/images/llm-sermon/llm-8.png"
       ],
-      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      "Technologies": ["Next.JS", "React", "SASS", "Material Ui", "Fast Api"]
     },
     {
-      "Title": "Vas Aviation",
-      "Description": "Application for tracking fuel supply requests for aircraft. It has an <span class='underline'>email module</span>, <span class='underline'>real-time notifications</span>, <span class='underline'>CSV file handling for data import</span>, <span class='underline'>price quotes</span>. Developed in <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>.",
+      "Title": "Tabcode SAAS",
+      "Description": "Tabcode SaaS is a comprehensive platform tailored for the restaurant industry, featuring three core modules: a Customer App, an Admin Panel, and a Restaurant App. Built using <span class='underline'>Node.js</span> for the backend and <span class='underline'>Angular</span> for the frontend, Tabcode enables smooth management of restaurant operations, seamless customer interaction, and efficient administrative control—all within a scalable SaaS architecture",
       "imgs": [
-        "assets/images/vasaviation/capture0.png",
-        "assets/images/vasaviation/capture1.png",
-        "assets/images/vasaviation/capture2.png",
-        "assets/images/vasaviation/capture3.png",
-        "assets/images/vasaviation/capture4.png",
-        "assets/images/vasaviation/capture5.png"
+        "assets/images/tabcode/page 1.png",
+        "assets/images/tabcode/page 2.png",
+        "assets/images/tabcode/page 3.png",
+        "assets/images/tabcode/page 4.png"
       ],
-      "Technologies": ["React", "Angular", "Node", "Angular Material", "RxJS"]
+      "Technologies": [ "Angular", "Node", "Angular Material", "RxJS"]
     },
     {
-      "Title": "GlobalJobs",
-      "Description": "E-learning platform developed with WordPress. Fully customized design, with plugins developed from scratch. It has a customized payment module, virtual classroom, course tracking dashboard.",
+      "Title": "Hope for children",
+      "Description": "Hope for Children is a charity-focused web platform built with <span class='underline'> Next.js </span>, <span class='underline'> React </span>, <span class='underline'> Redux </span>, <span class='underline'>Tailwind CSS </span>, and <span class='underline'>.NET </span>. It allows the organization to showcase their projects, alumni stories, success journeys, and children’s histories to drive awareness and support. Integrated with Chapa as a payment gateway, it enables secure and seamless donations to help transform lives.",
       "imgs": [
-        "assets/images/globaljobs/capture1.png",
-        "assets/images/globaljobs/capture2.png",
-        "assets/images/globaljobs/capture3.png",
-        "assets/images/globaljobs/capture4.png",
-        "assets/images/globaljobs/capture5.png",
-        "assets/images/globaljobs/capture6.png"
+        "assets/images/hope/page1.png",
+        "assets/images/hope/page2.png",
+        "assets/images/hope/page3.png",
+        "assets/images/hope/page4.png",
+        "assets/images/hope/page5.png",
+        "assets/images/hope/page6.png"
       ],
-      "Technologies": ["WordPress", "WordPress Codex", "PHP", "MySQL"]
+      "Technologies": ["React", "Redux", ".Net", "MongoDB", "Material UI"]
     },
     {
-      "Title": "GlobalJobs",
-      "Description": "E-commerce platform for technology products. Developed with WordPress and implementing a shipping system for products. It has sales reporting through customized programming.",
+      "Title": "Awan Awalia",
+      "Description": "Awalia is a modern car wash application where users can register their vehicles and purchase service packages for convenient, on-demand car cleaning. The platform is built using <span class='underline'>Next.js </span>, <span class='underline'>RTK Query </span>, <span class='underline'>Tailwind CSS </span>, and <span class='underline'>NestJS</span> for the web, with a <span class='underline'>Flutter</span> mobile app for cross-platform access—delivering a smooth and responsive experience for both users and service providers.",
       "imgs": [
-        "assets/images/mbelectronics/capture0.png",
-        "assets/images/mbelectronics/capture1.png",
-        "assets/images/mbelectronics/capture2.png"
+        "assets/images/awalia/awan1.png",
+        "assets/images/awalia/awan2.png",
+        "assets/images/awalia/awan3.png",
+        "assets/images/awalia/awan4.png",
+        "assets/images/awalia/awan5.png",
+        "assets/images/awalia/awan6.png"
       ],
-      "Technologies": ["WordPress", "Elementor", "Woocommerce", "WordPress Codex", "PHP", "MySQL"]
+      "Technologies": ["Next.JS", "Nest.JS", "RTK query", "Node", "PostgreSQL"]
     },
     {
-      "Title": "Agrourbana",
-      "Description": "Monitoring application made from scratch with an auth module, <span class='underline'>configurable graphs</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has logic for reactive forms for parameter configuration.",
+      "Title": "Instacart",
+      "Description": "Instacart is an eCommerce platform where users can <span class='underline'> browse </span>, <span class='underline'> order food </span>, and have it delivered to their <span class='underline'> doorstep</span> with ease. Built using <span class='underline'> Angular </span>, <span class='underline'> RxJS </span>, and a reactive architecture, it offers a fast and responsive user experience tailored for real-time interactions and smooth order management.",
       "imgs": [
         "assets/images/agrourbana/agrourbana1.png",
         "assets/images/agrourbana/agrourbana2.png",
@@ -168,86 +175,56 @@
         "assets/images/agrourbana/agrourbana4.png",
         "assets/images/agrourbana/agrourbana5.png"
       ],
-      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      "Technologies": ["Angular", "SASS", "Angular Material", "RxJS"]
     },
     {
-      "Title": "Tu Super Plan",
-      "Description": "Health plans quote that has an advanced search engine. The plans are shown based on the user's age, monthly income, and location. It has a <span class='underline'>live chat</span>, <span class='underline'>contact form</span>, <span class='underline'>notification system via WhatsApp and email</span>, <span class='underline'>auth</span>, and <span class='underline'>information management through the admin role</span>.",
+      "Title": "chain docs",
+      "Description": "ChainDocs is a secure document validation platform powered by blockchain technology. It ensures authenticity and tamper-proof verification of documents. The platform is built using <span class='underline'> Next.js </span> for the frontend and <span class='underline'> Node.js </span> with Express on the backend, providing a fast, trustworthy, and scalable solution for digital document verification.",
       "imgs": [
-        "assets/images/tusuperplan/tusuperplan1.png",
-        "assets/images/tusuperplan/tusuperplan2.png",
-        "assets/images/tusuperplan/tusuperplan3.png",
-        "assets/images/tusuperplan/tusuperplan4.png",
-        "assets/images/tusuperplan/tusuperplan5.png"
+        "assets/images/chain-docs/chd1.png",
+        "assets/images/chain-docs/chd2.png",
+        "assets/images/chain-docs/chd3.png"
+
       ],
-      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      "Technologies": ["Nest.JS", "Node", "SASS", "express", "Material ui", "Redux"]
     },
     {
-      "Title": "Proyexiot",
-      "Description": "Data monitoring platform for water wells, tugboats, and various installations made from scratch with an auth module, <span class='underline'>configurable graphs</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers</span>. It also has logic for reactive forms for parameter configuration.",
+      "Title": "IMIS(Integrated Management Information System)",
+      "Description": "IMIS (Integrated Management Information System) is a centralized platform designed to streamline research management, document handling, and library systems. Built with <span class='underline'> Angular </span>, <span class='underline'> NGXS</span> for state management, and a <span class='underline'> .NET </span> backend, IMIS offers a robust and efficient solution for managing academic and institutional information workflows.",
       "imgs": [
-        "assets/images/proyex/proyex1.png",
-        "assets/images/proyex/proyex2.png",
-        "assets/images/proyex/proyex3.png",
-        "assets/images/proyex/proyex4.png",
-        "assets/images/proyex/proyex5.png",
-        "assets/images/proyex/proyex6.png",
-        "assets/images/proyex/proyex7.png",
-        "assets/images/proyex/proyex8.png",
-        "assets/images/proyex/proyex9.png",
-        "assets/images/proyex/proyex10.png",
-        "assets/images/proyex/proyex11.png",
-        "assets/images/proyex/proyex12.png"
+        "assets/images/imis.png"
       ],
-      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      "Technologies": ["Angular", "SASS", "Angular Material", "RxJS", "NGXS", ".Net", "PostgreSQL"]
     }
   ],
 
   "OtherProjects.Title": "More Projects",
   "OtherProjects.Projects": [
     {
-      "Title": "Hands Game",
-      "Description": "Extended rock-paper-scissors game. A personal project developed in Angular where you play randomly against the machine. It features the use of services, interfaces, and components.",
+      "Title": "Gojjo Rental System",
+      "Description": "Gojjo is a modern house rental platform that connects tenants with property owners, making it easy to browse, book, and manage rental homes. Built using React, Node.js/Express",
       "imgs": ["assets/images/hands-game.png"],
-      "ghLink": "https://github.com/andresjosehr/hands-game",
-      "demoLink": "https://projects.andresjosehr.com/hands-game",
-      "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+      "ghLink": "https://github.com/addisumotora/Gojjo-house-react-frontend-website",
+      "demoLink": "",
+      "Technologies": ["React", "CSS", "SASS", "Node", "express"]
     },
     {
-      "Title": "Countries Viewer",
-      "Description": "Interface that consumes a countries API where you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
+      "Title": "AAU Clearance System",
+      "Description": "AAU Clearance System is a student clearance platform designed to simplify and streamline the university clearance process. Built using Spring Boot and styled with HTML/CSS",
       "imgs": ["assets/images/countries-viewer.png"],
-      "ghLink": "https://github.com/andresjosehr/countries-viewer",
-      "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+      "ghLink": "https://github.com/addisumotora/AAU-online-clearance-system",
       "Technologies": ["Angular", "RxJS", "SASS", "API"]
     },
     {
-      "Title": "Four Card Feature Section",
-      "Description": "A single page with a minimalist design listing 4 features in 4 cards. Entry animations are used with Angular animations.",
-      "ghLink": "https://github.com/andresjosehr/four-card-feature-section",
-      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
-      "Technologies": ["Angular", "SASS", "CSS GRID"]
+      "Title": "Auction Application System",
+      "Description": "Auction Application System is a dynamic platform for managing online auctions, enabling users to bid, sell, and track items in real-time. Developed with Angular on the frontend and powered by AWS Lambda on the backend",
+      "ghLink": "",
+      "Technologies": ["Angular", "SASS", "AWS Lambda", "USWDS"]
     },
     {
-      "Title": "Social Proof Section",
-      "Description": "Personal project of a page designed from a design made in Figma. Angular was used for development along with SASS and CSS GRID.",
-      "ghLink": "https://github.com/andresjosehr/social-proof-section",
-      "demoLink": "https://projects.andresjosehr.com/social-proof-section",
-      "Technologies": ["Angular", "CSS GRID", "GIT"]
-    },
-    {
-      "Title": "FAQ Accordion Card",
-      "Description": "Frequently asked questions accordion with logic and animations made in Angular.",
-      "ghLink": "https://github.com/andresjosehr/faq-accordion",
-      "demoLink": "https://projects.andresjosehr.com/faq-accordion",
-      "Technologies": ["Angular", "CSS GRID", "Angular animations"]
-    },
-    {
-      "Title": "Profile Card",
-      "Description": "Simple design of a page featuring a profile card with basic information of a person.",
-      "ghLink": "https://github.com/andresjosehr/profile-card-component",
-      "demoLink": "https://projects.andresjosehr.com/profile-card-component",
-      "Technologies": ["Angular", "SASS", "GIT"]
+      "Title": "Aladia Education website",
+      "Description": "E-learning platform developed with WordPress. Fully customized design, with plugins developed from scratch. It has a customized payment module, virtual classroom, course tracking dashboard.",
+      "Technologies": ["Vuejs", "Nest.JS"]
     }
   ],
 
